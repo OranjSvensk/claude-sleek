@@ -8,7 +8,7 @@ too: [read the docs][docs].
 
 - Warm charcoal for dark mode
 - Cream paper for light mode
-  - Nested item with a [link](https://github.com/KernNull/claude-sleek)
+  - Nested item with a [link](https://github.com/ryan-ven/claude-sleek)
 
 1. First step
 2. Second step
