@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/icon.png" width="96" alt="Claude Sleek icon">
+  <img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/icon.png" width="96" alt="Claude Sleek icon">
 </p>
 
 # Claude Sleek
@@ -31,18 +31,18 @@ Every screenshot shows [`demo/showcase.py`](demo/showcase.py) in VSCodium with t
 
 | Claude Ember | Claude Ember Black | Claude Parchment |
 | :---: | :---: | :---: |
-| <a href="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember.png"><img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember.png" alt="Claude Ember"></a> | <a href="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember-black.png"><img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember-black.png" alt="Claude Ember Black"></a> | <a href="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/parchment.png"><img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/parchment.png" alt="Claude Parchment"></a> |
+| <a href="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember.png"><img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember.png" alt="Claude Ember"></a> | <a href="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember-black.png"><img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember-black.png" alt="Claude Ember Black"></a> | <a href="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/parchment.png"><img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/parchment.png" alt="Claude Parchment"></a> |
 
 | Claude Ember High Contrast | Claude Parchment High Contrast |
 | :---: | :---: |
-| <a href="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember-high-contrast.png"><img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember-high-contrast.png" alt="Claude Ember High Contrast"></a> | <a href="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/parchment-high-contrast.png"><img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/parchment-high-contrast.png" alt="Claude Parchment High Contrast"></a> |
+| <a href="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember-high-contrast.png"><img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember-high-contrast.png" alt="Claude Ember High Contrast"></a> | <a href="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/parchment-high-contrast.png"><img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/parchment-high-contrast.png" alt="Claude Parchment High Contrast"></a> |
 
 <details>
 <summary>No Italics variants</summary>
 
 | Claude Ember (No Italics) | Claude Ember Black (No Italics) | Claude Parchment (No Italics) |
 | :---: | :---: | :---: |
-| <a href="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember-no-italics.png"><img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember-no-italics.png" alt="Claude Ember (No Italics)"></a> | <a href="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember-black-no-italics.png"><img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/ember-black-no-italics.png" alt="Claude Ember Black (No Italics)"></a> | <a href="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/parchment-no-italics.png"><img src="https://raw.githubusercontent.com/ryan-ven/claude-sleek/main/images/parchment-no-italics.png" alt="Claude Parchment (No Italics)"></a> |
+| <a href="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember-no-italics.png"><img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember-no-italics.png" alt="Claude Ember (No Italics)"></a> | <a href="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember-black-no-italics.png"><img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/ember-black-no-italics.png" alt="Claude Ember Black (No Italics)"></a> | <a href="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/parchment-no-italics.png"><img src="https://raw.githubusercontent.com/OranjSvensk/claude-sleek/main/images/parchment-no-italics.png" alt="Claude Parchment (No Italics)"></a> |
 
 </details>
 

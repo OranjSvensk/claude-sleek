@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryan-ven/claude-sleek.git"
+    "url": "https://github.com/OranjSvensk/claude-sleek.git"
   },
   "bugs": {
-    "url": "https://github.com/ryan-ven/claude-sleek/issues"
+    "url": "https://github.com/OranjSvensk/claude-sleek/issues"
   },
-  "homepage": "https://github.com/ryan-ven/claude-sleek#readme",
+  "homepage": "https://github.com/OranjSvensk/claude-sleek#readme",
   "engines": {
     "vscode": "^1.65.0"
   },
